@@ -1,3 +1,4 @@
+<h3 align="center"><img src="https://i.ibb.co/Y4nwzKtB/github-header-banner.png" alt="github-header-banner" border="0" width="auto" /></h3>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm César</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
